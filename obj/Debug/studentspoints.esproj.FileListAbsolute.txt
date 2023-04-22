@@ -1,0 +1,2 @@
+C:\Users\karlo\OneDrive\Radna površina\studentpoints\frontend\studentspoints\obj\Debug\studentspoints.esproj.SuggestedBindingRedirects.cache
+C:\Users\karlo\OneDrive\Radna površina\studentpoints\frontend\studentspoints\obj\Debug\studentspoints.esproj.CoreCompileInputs.cache

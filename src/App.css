@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #1e90ff;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th {
+    background-color: #4a8fd7;
+}
+
+td:last-child {
+    width: 250px;
+}
+
+button {
+    display: inline-block;
+    margin: 2px 4px;
+    padding: 4px 8px;
+    background-color: grey;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #ddd;
+    }
+
+.title {
+    background-color: yellow;
+    padding: 8px;
+}
